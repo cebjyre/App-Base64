@@ -2,5 +2,8 @@ Revision history for {{$dist->name}}
 
 {{$NEXT}}
 
+v0.0.2    2011-08-15 20:55:18 Australia/Sydney
+    Metadata only - just trying to fix the git autotag
+
 v0.0.1    2011-08-15 20:32:04 Australia/Sydney
     Decode from STDIN to STDOUT
