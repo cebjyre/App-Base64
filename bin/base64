@@ -1,0 +1,8 @@
+#!/usr/bin/perl
+
+package base64;
+
+# ABSTRACT: Commandline app for base64 stuff
+
+use App::Base64;
+App::Base64->run;
