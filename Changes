@@ -1,4 +1,6 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+
+v0.0.1    2011-08-15 20:32:04 Australia/Sydney
     Decode from STDIN to STDOUT
