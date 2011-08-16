@@ -2,6 +2,9 @@ Revision history for {{$dist->name}}
 
 {{$NEXT}}
 
+v0.0.3    2011-08-16 14:50:36 Australia/Sydney
+    Metadata only - still trying to fix the git autotag
+
 v0.0.2    2011-08-15 20:55:18 Australia/Sydney
     Metadata only - just trying to fix the git autotag
 
