@@ -16,3 +16,5 @@ sub execute {
 		print decode_base64($_);
 	}
 }
+
+1;
